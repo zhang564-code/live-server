@@ -1,0 +1,524 @@
+POST http://localhost:8080/blog/edit
+Accept:application/json
+
+{"id": 1,
+"title": "内容2",
+ "desription": "描述1",
+ "content": "内容1"}
+
+<> 2021-04-26T120203.415.json
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:application/json
+
+{"id": 1,
+"title": "内容1",
+ "desription": "描述1",
+ "content": "内容1"}
+
+<> 2021-04-26T120151.415.json
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:application/json
+
+{"id": 1,
+"title": "内容1",
+ "desription": "描述1",
+ "content": "内容1"}
+
+<> 2021-04-26T120140.415.json
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:application/json
+
+{"id": "1",
+"title": "内容1",
+ "desription": "描述1",
+ "content": "内容1"}
+
+<> 2021-04-26T115909.415.json
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:application/json
+
+{"id": "1",
+"title": "内容1",
+ "desription": "描述1",
+ "content": "内容1"}
+
+<> 2021-04-26T115728.415.json
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:application/json
+
+{
+"title": "内容1",
+ "desription": "描述1",
+ "content": "内容1"}
+
+<> 2021-04-26T115714.415.json
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:application/json
+
+{
+"title": "内容1",
+ "desription": "333333333222",
+ "content": "22222333"}
+
+<> 2021-04-26T115653.415.json
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:application/json
+
+{
+"title": "1",
+ "desription": "333333333222",
+ "content": "22222333"}
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:application/json
+
+{
+"title": "1",
+ "desription": "333333333222",
+ "content": "22222333"}
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:application/json
+
+{
+"title": "111",
+ "desription": "333333333222",
+ "content": "22222333"}
+
+<> 2021-04-26T115617.415.json
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:application/json
+
+{
+"title": "111",
+ "desription": "333333333222",
+ "content": "22222333"}
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:application/json
+
+{
+"title": "111",
+ "desription": "333333333222",
+ "content": "22222333"}
+
+<> 2021-04-26T115545.415.json
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:*/*
+Content-Type:application/json;charset=UTF-8
+
+{"title": "markerhub",  "description": "111111",  "content": "content111111"}
+
+<> 2021-04-26T115319.400.json
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:*/*
+Content-Type:application/json;charset=UTF-8
+
+{"title": "markerhub",  "description": "111111",  "content": "content111111"}
+
+<> 2021-04-26T115303.400.json
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:*/*
+Content-Type:application/json;charset=UTF-8
+
+{"title": "markerhub",  "description": "111111",  "content": "content111111"}
+
+<> 2021-04-26T115251.400.json
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:*/*
+Content-Type:application/json;charset=UTF-8
+
+{"title": "markerhub",  "description": "111111",  "content": "content111111"}
+
+<> 2021-04-26T115225.400.json
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:*/*
+Content-Type:application/json;charset=UTF-8
+
+{"title": "markerhub",  "description": "111111",  "content": "content111111"}
+
+<> 2021-04-26T115153.400.json
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:*/*
+Content-Type:application/json;charset=UTF-8
+
+{"title": "markerhub",  "description": "111111",  "content": "content111111"}
+
+<> 2021-04-26T115152.400.json
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:*/*
+Content-Type:application/json;charset=UTF-8
+
+{"title": "markerhub",  "description": "111111",  "content": "content111111"}
+
+<> 2021-04-26T115150.400.json
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:*/*
+Content-Type:application/json;charset=UTF-8
+
+{"title": "markerhub",  "description": "111111",  "content": "content111111"}
+
+<> 2021-04-26T115136.400.json
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:application/json
+
+{
+"title": "111",
+ "desription": "222",
+ "content": "333"}
+
+<> 2021-04-26T115039.415.json
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:application/json
+
+{"id": "8",
+"user_id": "1",
+"title": "111",
+ "desription": "222",
+ "content": "333"}
+
+<> 2021-04-26T114825.415.json
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:application/json
+
+{"id": "8",
+"user_id": "1",
+"title": "111",
+ "desription": "222",
+ "content": "333"}
+
+<> 2021-04-26T114736.415.json
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:application/json
+
+{"id": "8",
+"user_id": "1",
+"title": "111",
+ "desription": "222",
+ "content": "333"}
+
+<> 2021-04-26T114730.415.json
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:*/*
+Content-Type:application/json;charset=UTF-8
+
+{"title": "markerhub",  "description": "111111",  "content": "content111111"}
+
+<> 2021-04-26T114437.400.json
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:application/json
+
+{"id": "8",
+"user_id": "1",
+"title": "111",
+ "description": "222",
+ "content": "333"}
+
+<> 2021-04-26T114426.415.json
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:application/json
+
+{"id": "8",
+"user_id": "1",
+"title": "111",
+ "description": "222",
+ "content": "333"}
+
+<> 2021-04-26T114158.415.json
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:application/json
+
+{"title": "111",
+ "description": "222",
+ "content": "333"}
+
+<> 2021-04-26T112412.415.json
+
+###
+
+GET http://localhost:8080/blogs
+Accept:application/json
+
+<> 2021-04-26T110823.200.json
+
+###
+
+GET http://localhost:8080/blogs
+Accept:application/x-www-form-urlencoded
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:application/json
+
+{"title": "111",
+ "description": "222",
+ "content": "333"}
+
+<> 2021-04-26T110641.404.json
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:application/json
+
+{"title": "111",
+ "description": "222",
+ "content": "333"}
+
+<> 2021-04-26T110552.404.json
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:application/x-www-form-urlencoded
+
+{"title": "111",
+ "description": "222",
+ "content": "333"}
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:application/x-www-form-urlencoded
+
+{"title": "标题123",
+ "description": "描述123",
+ "content": "内容123"}
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:application/x-www-form-urlencoded
+
+{"title": "标题123",
+ "description": "描述123",
+ "content": "内容123"}
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:application/x-www-form-urlencoded
+
+{"title": "标题123",
+ "description": "描述123",
+ "content": "内容123"}
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:application/x-www-form-urlencoded
+
+{"title": "标题1",
+ "description": "描述123",
+ "content": "内容1"}
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:application/x-www-form-urlencoded
+
+{"title": "标题1",
+ "description": "描述1",
+ "content": "内容1"}
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:application/json
+
+{"title": "标题1",
+ "description": "描述1",
+ "content": "内容1"}
+
+<> 2021-04-26T110247.404.json
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:application/json
+
+{"title": "标题1",
+ "description": "111111",
+ "content": "content111111"}
+
+<> 2021-04-26T110001.404.json
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:application/json
+
+{"title": "标题1",
+ "description": "111111",
+ "content": "content111111"}
+
+<> 2021-04-26T105857.404.json
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:application/json
+
+{"id": "1",
+"title": "标题1",
+ "description": "111111",
+ "content": "content111111"}
+
+<> 2021-04-26T105839.404.json
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:application/json
+
+{"title": "标题1",
+ "description": "111111",
+ "content": "content111111"}
+
+<> 2021-04-26T105747.404.json
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:application/json
+
+{"title": "markerhub",
+ "description": "111111",
+ "content": "content111111"}
+
+<> 2021-04-26T105718.404.json
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:application/json
+
+{"title": "markerhub",
+ "description": "111111",
+ "content": "content111111"}
+
+<> 2021-04-26T105229.415.json
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:application/json
+
+{"title": "markerhub",
+ "description": "111111",
+ "content": "content111111"}
+
+<> 2021-04-26T104813.415.json
+
+###
+
+POST http://localhost:8080/blog/edit
+Accept:application/json
+{"title":"markerhub",
+ "description":"111111",
+ "content":"content111111"}
+
+<> 2021-04-26T104647.400.html
+
+###
+
+GET http://localhost:8080/blogs
+Accept:application/json
+
+<> 2021-04-26T104005.200.json
+
+###
+
+GET http://localhost:8080/blogs
+Accept:application/json
+
+<> 2021-04-26T103004.200.json
+
+###
+
+GET http://localhost:8080/blogs
+Accept:application/json
+
+<> 2021-04-26T102750.200.json
+
+###
+
